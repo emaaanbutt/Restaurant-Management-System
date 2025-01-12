@@ -1,0 +1,192 @@
+
+Employee Type :Manager
+Username      :maheen16
+Password      :pass16
+Employee Type :Manager
+Username      :eman24
+Password      :pass24
+Employee Type :Receptionist
+Username      :cybil31
+Password      :pass31
+Employee Type :Chef
+Username      :esha3
+Password      :pass3
+Employee Type :Waiter
+Username      :hira25
+Password      :pass25
+
+Employee Type :Chef
+Username      :ahmad23
+Password      :pass23
+
+Employee Type :Waiter
+Username      :imrana29
+Password      :pass29
+
+Employee Type :Chef
+Username      :maria5
+Password      :pass5
+
+Employee Type :Manager
+Username      :emaan24
+Password      :pass24
+
+Employee Type :Manager
+Username      :noor40
+Password      :pass40
+
+Employee Type :Manager
+Username      :ella2
+Password      :pass2
+
+Employee Type :Manager
+Username      :nadeem4
+Password      :pass4
+
+Employee Type :Manager
+Username      :fatimah1
+Password      :pass1
+
+Employee Type :Manager
+Username      :nadeem12
+Password      :pass12
+
+Employee Type :Waiter
+Username      :imrana27
+Password      :pass27
+
+Employee Type :Receptionist
+Username      :ahmad4
+Password      :pass4
+
+Employee Type :Receptionist
+Username      :ahmad20
+Password      :pass20
+
+Employee Type :Receptionist
+Username      :ali6
+Password      :pass6
+
+Employee Type :Waiter
+Username      :imrana7
+Password      :pass7
+
+Employee Type :Waiter
+Username      :mahir29
+Password      :pass29
+
+Employee Type :Receptionist
+Username      :hira22
+Password      :pass22
+
+Employee Type :Receptionist
+Username      :munawar
+Password      :pass
+
+Employee Type :Receptionist
+Username      :umar
+Password      :pass
+
+Employee Type :Chef
+Username      :birbal25
+Password      :pass25
+
+Employee Type :Manager
+Username      :esha1
+Password      :pass1
+
+Employee Type :Chef
+Username      :talia2
+Password      :pass2
+
+Employee Type :Waiter
+Username      :jihan
+Password      :pass
+
+Employee Type :Receptionist
+Username      :cybil
+Password      :pass
+
+Employee Type :Receptionist
+Username      :abbas
+Password      :pass
+
+Employee Type :Receptionist
+Username      :faizan
+Password      :pass
+
+Employee Type :Chef
+Username      :fazal
+Password      :pass
+
+Employee Type :Chef
+Username      :aleezay
+Password      :pass
+
+Employee Type :Chef
+Username      :abdulhadi
+Password      :pass
+
+Employee Type :Chef
+Username      :hamza
+Password      :pass
+
+Employee Type :Chef
+Username      :akbar
+Password      :pass
+
+Employee Type :Chef
+Username      :safiya
+Password      :pass
+
+Employee Type :Manager
+Username      :sumera
+Password      :pass
+
+Employee Type :Waiter
+Username      :ermina
+Password      :pass
+
+Employee Type :Receptionist
+Username      :zafar
+Password      :pass
+
+Employee Type :Chef
+Username      :aladdin
+Password      :pass
+
+Employee Type :Chef
+Username      :sara
+Password      :pass
+
+Employee Type :Manager
+Username      :ali
+Password      :pass
+
+Employee Type :Manager
+Username      :asim
+Password      :pass
+
+Employee Type :Manager
+Username      :danish
+Password      :pass
+
+Employee Type :Manager
+Username      :emaaan
+Password      :pass
+
+Employee Type :Manager
+Username      :hiraa
+Password      :pass
+
+Employee Type :Manager
+Username      :alii
+Password      :pass
+
+Employee Type :Manager
+Username      :sadia
+Password      :pass
+
+Employee Type :Manager
+Username      :emaaaan
+Password      :pass
